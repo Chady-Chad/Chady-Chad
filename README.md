@@ -51,3 +51,4 @@
 - 💼 LinkedIn: https://www.linkedin.com/in/chad-ameng-212293332/
 - 📧 Email: cameng02@gmail.com
 - 🌐 GitHub: https://github.com/Chady-Chad
+- 🌐 Portfolio Website: https://chadameng.mystrikingly.com/
