@@ -1,8 +1,8 @@
 # 👨‍💻 Chad | Computer Engineer
 
-💻 Focused on automation, embedded systems, software development, and engineering design.
+💻 Focused on automation, embedded systems, software development, electronics, and CAD design.
 
-## 💻 Programming
+## 💻 Core Programming Languages
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35"/>
@@ -12,7 +12,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="35"/>
 </p>
 
-## 🛠 Tools
+## 🛠 Tools & Software
 <p>
 <img src="https://seeklogo.com/images/A/autocad-logo-69326D7728-seeklogo.com.png" height="35"/> 
 <img src="https://www.solidworks.com/sites/default/files/inline-images/solidworks-connect_2.jpg" height="35"/> 
@@ -28,7 +28,7 @@
 </p>
 
 ## 🧩 Core Skills
-- 💻 Programming (C, C++, C#, Java, Python)  
+- 💻 Programming
 - ⚡ Electronics
 - 🔋 Circuit Design
 - 🧾 PCB Design
