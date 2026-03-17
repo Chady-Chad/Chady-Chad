@@ -2,6 +2,11 @@
 
 💻 Focused on automation, embedded systems, software development, electronics, and CAD design.
 
+## 🎓 Education
+
+**Bachelor of Science in Computer Engineering — Cum Laude**  
+[STI COLLEGE], [2020-2025]
+
 ## 💻 Core Programming Languages
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35"/>
