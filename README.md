@@ -5,7 +5,7 @@
 ## 🎓 Education
 
 **Bachelor of Science in Computer Engineering — Cum Laude**  
-[STI COLLEGE], [2020-2025]
+[STI COLLEGE], [2021-2025]
 
 ## 💻 Core Programming Languages
 <p>
